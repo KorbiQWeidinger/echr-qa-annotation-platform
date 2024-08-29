@@ -1,0 +1,4 @@
+types {
+    application/javascript              js;
+    application/json                    json;
+}
